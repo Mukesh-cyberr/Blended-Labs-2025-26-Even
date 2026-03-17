@@ -80,6 +80,21 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ---
 
+## Workflow (Student Explanation)
+
+(Write the steps you followed in your own words)
+
+1. Logged into the AWS Management Console and launched an EC2 instance using Amazon Linux 2 AMI with a key pair and security group.
+
+2. Configured the security group to allow SSH access on port 22 and database access on port 3306.
+
+3. Connected to the EC2 instance from my local machine using SSH.
+
+4. Installed the MySQL database server using the Linux package manager and started the service.
+
+5. Created a sample database and table, inserted records, and verified connectivity by running SQL queries.
+
+
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
