@@ -2,7 +2,7 @@
 
 ## Title
 
-Scale and Load Balance Your Architecture
+Scale and Load Balance Your Architecture<br>
 Author : MUKESH RAJ D <br>
 Reg no :212224100038<br>
 Submission Date :17-03-2026<br>
